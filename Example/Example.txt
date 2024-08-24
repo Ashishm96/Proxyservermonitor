@@ -1,7 +1,3 @@
-Certainly! Here's a comprehensive text file that serves as a step-by-step guide for showcasing the Proxy Server Monitoring project on GitHub. This file includes all necessary details for setup, execution, and contributions.
-
----
-
 # Proxy Server Monitoring Project
 
 ## Overview
