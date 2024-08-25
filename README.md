@@ -225,8 +225,6 @@ jobs:
 
 We welcome contributions! Please fork this repository and submit a pull request with any improvements or bug fixes.
 
-## Contact
-
 ## Contact  
 
 For any questions or issues, please contact [Ashish Makasare](mailto:ashishmakasare24@gmail.com).
