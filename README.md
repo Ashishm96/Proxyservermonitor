@@ -11,14 +11,6 @@ This project provides a set of scripts to monitor a proxy server, tracking metri
 3. Run the monitoring script: `./scripts/monitor.sh`.
 4. Schedule the script using cron for continuous monitoring.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contributions
-
-Contributions are welcome! Please fork this repository and submit a pull request for any improvements.
-
 ## Project Structure
 
 ```
