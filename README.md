@@ -1,6 +1,8 @@
-# Proxy Server Monitor
+# Proxy Server Monitoring Project
 
-This project contains scripts for monitoring a proxy server, tracking key metrics like CPU usage, memory usage, network traffic, and the status of the proxy server.
+## Overview
+
+This project provides a set of scripts to monitor a proxy server, tracking metrics such as CPU usage, memory usage, and network traffic. It also logs the status of the proxy server and is intended for open-source collaboration on GitHub.
 
 ## Usage
 
@@ -16,13 +18,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contributions
 
 Contributions are welcome! Please fork this repository and submit a pull request for any improvements.
-
-
-# Proxy Server Monitoring Project
-
-## Overview
-
-This project provides a set of scripts to monitor a proxy server, tracking metrics such as CPU usage, memory usage, and network traffic. It also logs the status of the proxy server and is intended for open-source collaboration on GitHub.
 
 ## Project Structure
 
