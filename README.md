@@ -2,24 +2,6 @@
 
 This project contains scripts for monitoring a proxy server, tracking key metrics like CPU usage, memory usage, network traffic, and the status of the proxy server.
 
-## Project Structure
-ProxyServerMonitor/
-├── scripts/
-│   ├── monitor.sh          # Main script to monitor the proxy server
-│   ├── cpu_usage.sh        # Script to monitor CPU usage
-│   ├── memory_usage.sh     # Script to monitor memory usage
-│   ├── network_traffic.sh  # Script to monitor network traffic
-├── logs/
-│   └── monitor.log         # Log file to store monitoring results
-├── config/
-│   └── proxy_config.conf   # Configuration file for the proxy server
-├── README.md               # Project documentation
-├── LICENSE                 # License file
-└── .github/
-    └── workflows/
-        └── ci.yml          # Continuous Integration workflow
-
-
 ## Usage
 
 1. Clone the repository.
