@@ -227,6 +227,8 @@ We welcome contributions! Please fork this repository and submit a pull request 
 
 ## Contact
 
-For any questions or issues, please contact Ashish Makasare(mailto:ashishmakasare24@gmail.com).
+## Contact  
+
+For any questions or issues, please contact [Ashish Makasare](mailto:ashishmakasare24@gmail.com).
 
 ---
