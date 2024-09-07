@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project provides a set of scripts to monitor a proxy server, tracking metrics such as CPU usage, memory usage, and network traffic. It also logs the status of the proxy server and is intended for open-source collaboration on GitHub.
+This project provides a set of Bash scripts designed to monitor a proxy server's system resources, such as CPU usage, memory usage, disk usage, and network traffic. The scripts offer a real-time dashboard format for displaying system metrics and allow users to filter specific data using command-line switches. Additionally, the project includes functionality for logging the status of the proxy server and performing automated security audits to identify and mitigate vulnerabilities. The entire setup is executed on AWS EC2 instances, making it scalable and adaptable for cloud environments. This project is open for collaboration on GitHub, encouraging contributions from the open-source community.
 
 ## Usage
 
